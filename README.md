@@ -4,4 +4,4 @@ This tool was created as a portfolio project for CS361. It allows the user to in
 
 The graphing tool supports custom graphs as well as randomized graphs. 
 
-Written in Python and makes use of the pandas library for data analysis. 
+Written in Python and makes use of the pandas library for data analysis and matplotlib for graphing. Heavily uses microservices which communicate through JSON.   
